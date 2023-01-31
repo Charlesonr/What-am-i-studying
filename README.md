@@ -33,3 +33,4 @@
 - Webpack 🔴
 - Next.js 🔴
 - Testes unitários 🔴
+- Scrum 🟡
