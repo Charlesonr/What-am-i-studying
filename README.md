@@ -1,7 +1,7 @@
-# What am i studying
+# O Que estou estudando? 📚
+### What am i studying?
 
 ## Nível de aprendizado 🔴🟠🟡🟢
-#
 - Go/Rust ( Criação de Dockers) 🔴
 - Solidity 🔴
 - HTML 🟢
