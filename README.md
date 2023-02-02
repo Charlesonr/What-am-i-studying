@@ -9,10 +9,11 @@
 - Javascript  🟡
 - Typescript 🟠
 - React JS 🔴
-- MongoDB/MySQL/SQL 🔴
+- MongoDB/MySQL/SQL 🟠
 - Orientação e Objetos 🔴
 - Containers ( Dockers) 🔴
-- Desenvolvimento de API REST e conexão com APIs existentes 🔴
+- Desenvolvimento de API REST 🔴
+- Conexão com APIs existentes 🟠
 - Hyperledger 🔴
 - Sistema Operacional Linux (Terminal) 🟡
 - GIT ( Versionamento ) 🟡
