@@ -48,3 +48,4 @@ Pequeno resumo das tecnologias, ferramentas, linguagens e frameworks que sei sob
 - ITIL 4 🔴📝
 - MD-100 🔴📝
 - HDI 🔴📝
+- PowerShell/CMD 🔴📝
