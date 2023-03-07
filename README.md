@@ -21,14 +21,14 @@ Pequeno resumo das tecnologias, ferramentas, linguagens e frameworks que sei sob
 - MySQL/SQL 🟠📝
 - PostgreSQL 🔴
 - Orientação e Objetos 🟠
-- LLógica de Programação🟠📝
+- Lógica de Programação🟠📝
 - Containers ( Dockers) 🔴
 - UX/UI 🟠
 - Desenvolvimento de API REST 🔴
 - Conexão com APIs existentes 🟠
 - Hyperledger 🔴
 - Sistema Operacional Linux (Terminal) 🟡📝
-- GIT ( Versionamento ) 🟡
+- GIT ( Versionamento ) 🟡📝
 - CI/CD 🟠
 - Rede Ethereum (EVM) 🟠
 - ERC-20 🔴
