@@ -39,7 +39,7 @@ Pequeno resumo das tecnologias, ferramentas, linguagens e frameworks que sei sob
 - Conexão de wallets 🔴
 - Criptografia 🟡
 - Web3 🔴
-- Mintar NFTs 🔴
+- Mintar NFTs 🔴📝
 - Kubernates 🔴
 - AWS 🔴
 - Webpack 🔴
