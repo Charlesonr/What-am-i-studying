@@ -11,7 +11,7 @@ Pequeno resumo das tecnologias, ferramentas, linguagens e frameworks que sei sob
 #
 - Go/Rust ( Criação de Dockers) 🔴
 - Solidity 🔴
-- Ethereum 🔴📝
+- Ethereum 🔴
 - HTML 🟢📝
 - CSS 🟢📝
 - Javascript  🟡📝
@@ -50,3 +50,5 @@ Pequeno resumo das tecnologias, ferramentas, linguagens e frameworks que sei sob
 - MD-100 🔴📝
 - HDI 🔴📝
 - PowerShell/CMD 🔴📝
+- Protocolos de Internet 🟡📝
+- Infraestrutura de Redes 🟡📝
