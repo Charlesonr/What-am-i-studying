@@ -52,3 +52,4 @@ Pequeno resumo das tecnologias, ferramentas, linguagens e frameworks que sei sob
 - PowerShell/CMD 🔴📝
 - Protocolos de Internet 🟡📝
 - Infraestrutura de Redes 🟡📝
+- Lista OWASP(Segurança da Informação) 🔴📝
