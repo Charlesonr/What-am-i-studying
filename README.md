@@ -53,3 +53,5 @@ Pequeno resumo das tecnologias, ferramentas, linguagens e frameworks que sei sob
 - Protocolos de Internet 🟡📝
 - Infraestrutura de Redes 🟡📝
 - Lista OWASP(Segurança da Informação) 🔴📝
+- Active Directory🟡
+- Técnicas de Troubleshooting (Windows & Linux)🟡📝
