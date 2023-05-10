@@ -27,8 +27,9 @@ Pequeno resumo das tecnologias, ferramentas, linguagens e frameworks que sei sob
 - Desenvolvimento de API REST 🔴
 - Conexão com APIs existentes 🟠
 - Hyperledger 🔴
-- Sistema Operacional Linux (Terminal) 🟡📝
-- GIT ( Versionamento ) 🟡📝
+- Sistema Operacional Linux 🟡📝
+- Bash script 🟡📝
+- GIT ( Versionamento ) 🟡
 - CI/CD 🟠
 - Rede Ethereum (EVM) 🟠
 - ERC-20 🔴
@@ -55,3 +56,4 @@ Pequeno resumo das tecnologias, ferramentas, linguagens e frameworks que sei sob
 - Lista OWASP(Segurança da Informação) 🔴📝
 - Active Directory🟡
 - Técnicas de Troubleshooting (Windows & Linux)🟡📝
+
